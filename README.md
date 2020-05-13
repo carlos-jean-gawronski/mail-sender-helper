@@ -45,7 +45,7 @@ This project allows you to send emails very fast through gmail platform with a s
 #### Clone the project
 
 ```sh
-git clone https://github.com/carlos-jean-gawronski/mail-sender.git
+git clone https://github.com/carlos-jean-gawronski/mail-sender-helper.git
 cd mail-sender
 ```
 
@@ -71,4 +71,5 @@ The last step is to allow 'Low Secure Apps' in your Google account, otherwise it
 
 See more details in the LICENSE file.
 
+---
 by carlos-jean-gawronski :wave:
