@@ -1,5 +1,5 @@
 {
-  "name": "mail-sender",
+  "name": "mail-sender-helper",
   "version": "1.0.0",
   "description": "Mail sender helper",
   "main": "index.js",

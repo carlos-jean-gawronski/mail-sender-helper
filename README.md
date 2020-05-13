@@ -1,5 +1,5 @@
 <h4 align="center">
-  Mail Sender
+  Mail Sender Helper
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlos-jean-gawronski/mail-sender">
