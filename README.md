@@ -2,16 +2,16 @@
   Mail Sender Helper
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlos-jean-gawronski/mail-sender">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlos-jean-gawronski/mail-sender-helper">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/carlos-jean-gawronski/mail-sender">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/carlos-jean-gawronski/mail-sender-helper">
   
-  <a href="https://github.com/carlos-jean-gawronski/mail-sender/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlos-jean-gawronski/mail-sender">
+  <a href="https://github.com/carlos-jean-gawronski/mail-sender-helper/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlos-jean-gawronski/mail-sender-helper">
   </a>
 
-  <a href="https://github.com/carlos-jean-gawronski/mail-sender/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/carlos-jean-gawronski/mail-sender">
+  <a href="https://github.com/carlos-jean-gawronski/mail-sender-helper/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/carlos-jean-gawronski/mail-sender-helper">
   </a>
 </p>
 <p align="center">
@@ -69,6 +69,6 @@ The last step is to allow 'Low Secure Apps' in your Google account, otherwise it
 
 ### Licensed under MIT license
 
-## See more details in the LICENSE file.
+See more details in the LICENSE file.
 
 by carlos-jean-gawronski :wave:
